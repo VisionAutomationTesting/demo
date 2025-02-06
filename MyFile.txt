@@ -1,6 +1,7 @@
 Here is new text file
 this is local update after cloaning
  > my taget list
+this line is added by remote
  > Java Programing
 
 asdjhfjkasdfhasdf >> local changes
